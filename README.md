@@ -6,9 +6,10 @@ The goal of this competition is the prediction of the price of diamonds based on
 In this section you will find data needed to train your model and a detailed description of it.
 
 Files
-train.csv: training set
-test.csv: test set
-sample_submission.csv: sample submission
+- train.csv: training set
+- test.csv: test set
+- sample_submission.csv: sample submission
+
 Features
 * id: only for test & sample submission files, id for prediction sample identification
 * price: price in USD
